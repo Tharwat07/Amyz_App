@@ -1,4 +1,4 @@
-# a**z_app
+# amyz_app
 
 A new Flutter project.
 
